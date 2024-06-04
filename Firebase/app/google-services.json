@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1057269323445",
+    "firebase_url": "https://firstproject-f444d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "firstproject-f444d",
+    "storage_bucket": "firstproject-f444d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057269323445:android:e17f2a5a5ed54d5b6250fc",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP_lKGRaBjuU0Xvgk87Z6slt6E13kiDaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
